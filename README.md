@@ -8,3 +8,4 @@
  5. Hill Climb Search
  6. Beam Search
  7. Branch and Bound
+ 8. Oracle

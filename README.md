@@ -5,5 +5,6 @@
  2. BMS
  3. BFS
  4. DFS
- 5. Beam Search
- 6. Branch and Bound
+ 5. Hill Climb Search
+ 6. Beam Search
+ 7. Branch and Bound

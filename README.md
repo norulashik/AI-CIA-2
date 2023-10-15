@@ -9,3 +9,4 @@
  6. Beam Search
  7. Branch and Bound
  8. Oracle
+ 9. B&B with Extended List

@@ -6,3 +6,4 @@
  3. BFS
  4. DFS
  5. Beam Search
+ 6. Branch and Bound
